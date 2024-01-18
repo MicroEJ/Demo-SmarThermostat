@@ -1,0 +1,28 @@
+<!--
+	Copyright 2024 MicroEJ Corp. All rights reserved.
+	Use of this source code is governed by a BSD-style license that can be found with this software.
+-->
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+                 xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector android:height="36dp" android:width="36dp" android:viewportHeight="36" android:viewportWidth="36">
+            <group android:name="_R_G">
+                <group android:name="_R_G_L_0_G" android:translateX="4.4510000000000005"
+                       android:translateY="4.4510000000000005">
+                    <path android:name="_R_G_L_0_G_D_0_P_0" android:fillColor="#16406e" android:fillAlpha="1"
+                          android:fillType="nonZero"
+                          android:pathData=" M25.85 26.85 C25.85,26.85 1.25,26.85 1.25,26.85 C0.7,26.85 0.25,26.4 0.25,25.85 C0.25,25.3 0.7,24.85 1.25,24.85 C1.25,24.85 25.85,24.85 25.85,24.85 C26.4,24.85 26.85,25.3 26.85,25.85 C26.85,26.4 26.4,26.85 25.85,26.85c  M13.55 16.99 C12.9,16.99 12.25,16.74 11.76,16.24 C11.76,16.24 6.69,11.18 6.69,11.18 C6.3,10.79 6.3,10.16 6.69,9.77 C7.08,9.38 7.72,9.38 8.11,9.77 C8.11,9.77 12.55,14.21 12.55,14.21 C12.55,14.21 12.55,1.25 12.55,1.25 C12.55,0.7 13,0.25 13.55,0.25 C14.1,0.25 14.55,0.7 14.55,1.25 C14.55,1.25 14.55,14.21 14.55,14.21 C14.55,14.21 18.99,9.77 18.99,9.77 C19.38,9.38 20.01,9.38 20.4,9.77 C20.8,10.16 20.8,10.79 20.4,11.18 C20.4,11.18 15.34,16.24 15.34,16.24 C14.85,16.74 14.2,16.99 13.55,16.99c "/>
+                </group>
+            </group>
+            <group android:name="time_group"/>
+        </vector>
+    </aapt:attr>
+    <target android:name="time_group">
+        <aapt:attr name="android:animation">
+            <set android:ordering="together">
+                <objectAnimator android:propertyName="translateX" android:duration="2000" android:startOffset="0"
+                                android:valueFrom="0" android:valueTo="1" android:valueType="floatType"/>
+            </set>
+        </aapt:attr>
+    </target>
+</animated-vector>

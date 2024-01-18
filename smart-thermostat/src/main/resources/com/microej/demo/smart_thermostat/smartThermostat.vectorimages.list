@@ -1,0 +1,24 @@
+# Copyright 2023-2024 MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+/vector-images/transition-inside-outside/dynamic_overlay.xml:VGF
+/vector-images/transition-inside-outside/static_overlay.xml:VGF
+/vector-images/transition-inside-outside/static_inside.xml:VGF
+/vector-images/transition-inside-outside/bubble.xml:VGF
+/vector-images/cursor-slide/slider.xml:VGF
+
+/vector-images/popup/temp_threshold_popup.xml:VGF
+/vector-images/popup/temp_threshold_popup_up.xml:VGF
+/vector-images/popup/temp_threshold_popup_down.xml:VGF
+
+/vector-images/icons/battery.xml:VGF
+/vector-images/icons/humidity.xml:VGF
+/vector-images/icons/pressure.xml:VGF
+/vector-images/icons/fan.xml:VGF
+
+/vector-images/icons/solar_panel_static.xml:VGF
+/vector-images/icons/solar_panel.xml:VGF
+/vector-images/icons/plant.xml:VGF
+/vector-images/icons/plant_static.xml:VGF
+/vector-images/icons/fan_big.xml:VGF
+/vector-images/icons/fan_big_static.xml:VGF

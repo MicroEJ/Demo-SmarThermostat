@@ -1,0 +1,45 @@
+# Copyright 2023-2024 MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+/images/hdpi/background/home.png:RGB888
+/images/hdpi/background/garden.png:RGB888
+
+/images/hdpi/background/home_scaled.png:RGB888
+/images/hdpi/background/garden_scaled.png:RGB888
+
+/images/hdpi/background/home_scaled_rounded_rect.png:RGB888
+/images/hdpi/background/top_left_corner.png:RGB888
+/images/hdpi/background/top_right_corner.png:RGB888
+/images/hdpi/background/home_scaled_ceiling_left.png:RGB888
+/images/hdpi/background/home_scaled_ceiling_right.png:RGB888
+/images/hdpi/background/top_left_rectangle_corner.png:RGB888
+/images/hdpi/background/top_right_rectangle_corner.png:RGB888
+
+# Not scaled yet
+/images/hdpi/curve_slider/curve-gradient-down.png:ARGB8888
+/images/hdpi/curve_slider/curve-gradient-down_highlight.png:ARGB8888
+/images/hdpi/curve_slider/curve-gradient-up.png:ARGB8888
+/images/hdpi/curve_slider/curve-gradient-up_highlight.png:ARGB8888
+
+# Not scaled yet
+/images/hdpi/icons/toggle-bkg.png:A8
+/images/hdpi/icons/toggle-bullet.png:ARGB8888
+
+/images/hdpi/buttons/button_+_off.png:ARGB8888
+/images/hdpi/buttons/button_+_on.png:ARGB8888
+/images/hdpi/buttons/button_-_off.png:ARGB8888
+/images/hdpi/buttons/button_-_on.png:ARGB8888
+
+# Not scaled yet
+/images/hdpi/weather/clear.png:ARGB8888
+/images/hdpi/weather/clear_big.png:ARGB8888
+/images/hdpi/weather/cloudy.png:ARGB8888
+/images/hdpi/weather/cloudy_big.png:ARGB8888
+/images/hdpi/weather/few_clouds.png:ARGB8888
+/images/hdpi/weather/few_clouds_big.png:ARGB8888
+/images/hdpi/weather/rain.png:ARGB8888
+/images/hdpi/weather/rain_big.png:ARGB8888
+/images/hdpi/weather/rain_sun.png:ARGB8888
+/images/hdpi/weather/rain_sun_big.png:ARGB8888
+/images/hdpi/weather/thunderstorm.png:ARGB8888
+/images/hdpi/weather/thunderstorm_big.png:ARGB8888

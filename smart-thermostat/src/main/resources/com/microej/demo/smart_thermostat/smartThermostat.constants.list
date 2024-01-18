@@ -1,0 +1,22 @@
+# Copyright 2023-2024 MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+# Sets the project into HDPI or LDPI. This will change image, font and styling sizes.
+# Default: false for low resolution mode with IMXRT1170.
+HIGH_RESOLUTION_SWITCH=false
+
+# UI debug constants
+
+# Monitor VG area drawing
+flushvisualizer.drawvgarea.enable=false
+
+# Highlighting the Bounds of the Widgets
+ej.mwt.debug.bounds.enabled=false
+ej.mwt.debug.bounds.color=0x00ff00
+
+# Monitoring the render operations
+ej.mwt.debug.render.enabled=false
+ej.mwt.debug.render.monitor=ej.widget.debug.RenderMonitor
+
+# Monitoring the Animators
+ej.mwt.debug.animator.enabled=false

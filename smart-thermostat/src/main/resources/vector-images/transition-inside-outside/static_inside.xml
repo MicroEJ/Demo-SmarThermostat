@@ -1,0 +1,152 @@
+<!--
+	Copyright 2024 MicroEJ Corp. All rights reserved.
+	Use of this source code is governed by a BSD-style license that can be found with this software.
+-->
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:width="720dp"
+            android:height="1280dp"
+            android:viewportWidth="720"
+            android:viewportHeight="1280">
+            <group android:name="_R_G">
+                <group
+                    android:name="_R_G_L_10_G"
+                    android:translateX="-5.25"
+                    android:translateY="-0.25">
+                    <path
+                        android:name="_R_G_L_10_G_D_0_P_0"
+                        android:fillAlpha="1"
+                        android:fillColor="#000000"
+                        android:fillType="nonZero"
+                        android:pathData=" M745 1235 C745,1235 745,45 745,45 C745,20.15 765.15,0 790,0 C790,0 680,0 680,0 C704.85,0 725,20.15 725,45 C725,45 725,1235 725,1235 C725,1259.85 704.85,1280 680,1280 C680,1280 790,1280 790,1280 C765.15,1280 745,1259.85 745,1235c " />
+                </group>
+                <group
+                    android:name="_R_G_L_9_G"
+                    android:scaleX="0.97246"
+                    android:scaleY="0.97246"
+                    android:translateX="360.139"
+                    android:translateY="490.301">
+                    <path
+                        android:name="_R_G_L_9_G_D_0_P_0"
+                        android:fillAlpha="1"
+                        android:fillColor="#ffffff"
+                        android:fillType="nonZero"
+                        android:pathData=" M321.4 -266.43 C321.4,-266.43 321.37,251.43 321.37,251.43 C321.37,284.89 294.18,312.02 260.64,312.02 C260.64,312.02 -258.87,312.02 -258.87,312.02 C-292.41,312.02 -319.6,284.89 -319.6,251.43 C-319.6,251.43 -319.57,-266.43 -319.57,-266.43 C-319.57,-299.89 -292.38,-327.03 -258.84,-327.03 C-258.84,-327.03 260.67,-327.03 260.67,-327.03 C294.21,-327.03 321.4,-299.89 321.4,-266.43c " />
+                </group>
+                <group
+                    android:name="_R_G_L_7_G"
+                    android:translateX="351.75"
+                    android:translateY="315.13200000000006">
+                    <path
+                        android:name="_R_G_L_7_G_D_0_P_0"
+                        android:fillAlpha="1"
+                        android:fillColor="#352716"
+                        android:fillType="nonZero"
+                        android:pathData=" M100.38 396.76 C96.91,400.68 90.04,400.18 85.32,395.47 C-30,280.35 -30,91.47 85.32,-23.65 C90.04,-28.37 96.91,-28.86 100.38,-24.94 C103.86,-21.01 102.94,-14.43 98.59,-10.07 C-9.26,97.59 -9.26,274.23 98.59,381.89 C102.94,386.24 103.86,392.83 100.38,396.76c " />
+                </group>
+                <group
+                    android:name="_R_G_L_6_G"
+                    android:translateX="674.75"
+                    android:translateY="-0.25">
+                    <path
+                        android:name="_R_G_L_6_G_D_0_P_0"
+                        android:fillAlpha="1"
+                        android:fillColor="#000000"
+                        android:fillType="nonZero"
+                        android:pathData=" M0.25 0.25 C25.1,0.25 45.25,20.4 45.25,45.25 C45.25,45.25 45.25,0.25 45.25,0.25 C45.25,0.25 0.25,0.25 0.25,0.25c " />
+                </group>
+                <group
+                    android:name="_R_G_L_5_G"
+                    android:pivotX="22.75"
+                    android:pivotY="22.75"
+                    android:rotation="90"
+                    android:translateX="674.75"
+                    android:translateY="1234.75">
+                    <path
+                        android:name="_R_G_L_5_G_D_0_P_0"
+                        android:fillAlpha="1"
+                        android:fillColor="#000000"
+                        android:fillType="nonZero"
+                        android:pathData=" M0.25 0.25 C25.1,0.25 45.25,20.4 45.25,45.25 C45.25,45.25 45.25,0.25 45.25,0.25 C45.25,0.25 0.25,0.25 0.25,0.25c " />
+                </group>
+                <group
+                    android:name="_R_G_L_4_G"
+                    android:pivotX="22.75"
+                    android:pivotY="22.75"
+                    android:rotation="180"
+                    android:translateX="-0.25"
+                    android:translateY="1234.75">
+                    <path
+                        android:name="_R_G_L_4_G_D_0_P_0"
+                        android:fillAlpha="1"
+                        android:fillColor="#000000"
+                        android:fillType="nonZero"
+                        android:pathData=" M0.25 0.25 C25.1,0.25 45.25,20.4 45.25,45.25 C45.25,45.25 45.25,0.25 45.25,0.25 C45.25,0.25 0.25,0.25 0.25,0.25c " />
+                </group>
+                <group
+                    android:name="_R_G_L_3_G"
+                    android:pivotX="22.75"
+                    android:pivotY="22.75"
+                    android:rotation="270"
+                    android:translateX="-0.25"
+                    android:translateY="-0.25">
+                    <path
+                        android:name="_R_G_L_3_G_D_0_P_0"
+                        android:fillAlpha="1"
+                        android:fillColor="#000000"
+                        android:fillType="nonZero"
+                        android:pathData=" M0.25 0.25 C25.1,0.25 45.25,20.4 45.25,45.25 C45.25,45.25 45.25,0.25 45.25,0.25 C45.25,0.25 0.25,0.25 0.25,0.25c " />
+                </group>
+                <group
+                    android:name="_R_G_L_2_G"
+                    android:translateX="346.242"
+                    android:translateY="1192.723">
+                    <path
+                        android:name="_R_G_L_2_G_D_0_P_0"
+                        android:fillAlpha="0"
+                        android:fillColor="#ffffff"
+                        android:fillType="nonZero"
+                        android:pathData=" M28.76 16.59 C28.76,16.59 38.66,26.49 38.66,26.49 C39.44,27.27 40.71,27.27 41.49,26.49 C42.27,25.71 42.27,24.44 41.49,23.66 C41.49,23.66 31.59,13.76 31.59,13.76 C31.59,13.76 41.49,3.86 41.49,3.86 C42.27,3.08 42.27,1.81 41.49,1.03 C40.71,0.25 39.44,0.25 38.66,1.03 C38.66,1.03 28.76,10.93 28.76,10.93 C28.76,10.93 18.86,1.03 18.86,1.03 C18.08,0.25 16.81,0.25 16.03,1.03 C15.25,1.81 15.25,3.08 16.03,3.86 C16.03,3.86 25.93,13.76 25.93,13.76 C25.93,13.76 16.03,23.66 16.03,23.66 C15.25,24.44 15.25,25.71 16.03,26.49 C16.81,27.27 18.08,27.27 18.86,26.49 C18.86,26.49 28.76,16.59 28.76,16.59c " />
+                </group>
+                <group
+                    android:name="_R_G_L_1_G"
+                    android:translateX="175"
+                    android:translateY="1204">
+                    <path
+                        android:name="_R_G_L_1_G_D_0_P_0"
+                        android:fillAlpha="0.6"
+                        android:fillColor="#000000"
+                        android:fillType="nonZero"
+                        android:pathData=" M236.38 0 C236.38,27.61 213.99,50 186.38,50 C186.38,50 183.63,50 183.63,50 C156.01,50 133.63,27.61 133.63,0 C133.63,-27.61 156.01,-50 183.63,-50 C183.63,-50 186.38,-50 186.38,-50 C213.99,-50 236.38,-27.61 236.38,0c " />
+                </group>
+                <group
+                    android:name="_R_G_L_0_G"
+                    android:translateX="346.242"
+                    android:translateY="1192.723">
+                    <path
+                        android:name="_R_G_L_0_G_D_0_P_0"
+                        android:fillAlpha="1"
+                        android:fillColor="#ffffff"
+                        android:fillType="nonZero"
+                        android:pathData=" M16.59 14 C16.59,14 26.49,4.1 26.49,4.1 C27.27,3.32 27.27,2.05 26.49,1.27 C25.7,0.49 24.44,0.49 23.66,1.27 C23.66,1.27 13.76,11.17 13.76,11.17 C13.76,11.17 3.86,1.27 3.86,1.27 C3.08,0.49 1.81,0.49 1.03,1.27 C0.25,2.05 0.25,3.32 1.03,4.1 C1.03,4.1 10.93,14 10.93,14 C10.93,14 1.03,23.9 1.03,23.9 C0.25,24.68 0.25,25.95 1.03,26.73 C1.81,27.51 3.08,27.51 3.86,26.73 C3.86,26.73 13.76,16.83 13.76,16.83 C13.76,16.83 23.66,26.73 23.66,26.73 C24.44,27.51 25.7,27.51 26.49,26.73 C27.27,25.95 27.27,24.68 26.49,23.9 C26.49,23.9 16.59,14 16.59,14c " />
+                </group>
+            </group>
+            <group android:name="time_group" />
+        </vector>
+    </aapt:attr>
+    <target android:name="time_group">
+        <aapt:attr name="android:animation">
+            <set android:ordering="together">
+                <objectAnimator
+                    android:duration="40"
+                    android:propertyName="translateX"
+                    android:startOffset="0"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+</animated-vector>
